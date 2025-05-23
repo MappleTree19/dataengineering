@@ -1,0 +1,9 @@
+{
+	"name": "jpgadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "760cd85a-989d-4638-abe0-3f2c93d9f276",
+		"tenantId": "08649e6e-6703-415e-b47f-4d2a9d688e76"
+	}
+}
